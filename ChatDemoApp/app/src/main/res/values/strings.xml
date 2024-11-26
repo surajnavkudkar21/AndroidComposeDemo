@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatDemoApp</string>
+    <string name="author_bot">Bot</string>
+    <string name="author_me">Me</string>
+    <string name="reply_bot">Thanks for message</string>
+    <string name="placeholder_message">Message</string>>
+</resources>
